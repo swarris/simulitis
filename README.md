@@ -4,4 +4,8 @@ In dit project gaan we de verspreiding van een denkbeeldig virus simuleren. Dit 
 
 Idee gebaseerd op de [simulatie van de Washington Post](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
 
-**English will be posted soon**
+## Spread of Simulitis
+In this project we will simulate the spread of an imaginairy virus. 
+This virus, *simulitis* can be transmitted for person to person and can be fatal. The transmission rate and fatality rate can be changed per simulation. These simulations are written in the programming language Python. These simulations are **illustrative** are intented to **teach programming in Python**. The used models are **not scientific**! 
+
+Idea based on the [simulation of the Washington Post](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
